@@ -1,0 +1,1 @@
+https://jeremypageitcompany.com/posts/azure/az700/1-module1_dnsservers/
